@@ -1,4 +1,8 @@
 # wayland-mouse-mapper
+It makes the thumb wheel button zoom in and out by emitting CTRL and +/- keycodes.
+
+Based on the work of [mathportillo/wayland-mouse-mapper](https://github.com/mathportillo/wayland-mouse-mapper) and [shrugal/libinput-gestures](https://github.com/shrugal/libinput-gestures).
+
 A small script for mapping mouse buttons to keystrokes on Wayland.
 
 I made for myself to use my mouse extra buttons for useful stuff.
